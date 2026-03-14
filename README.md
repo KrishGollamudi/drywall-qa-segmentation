@@ -85,9 +85,9 @@ See `report/report.pdf` for full methodology, results, visual examples, and fail
 ### Crack Segmentation
 *Original | Ground Truth | Prediction*
 
-![Crack Segmentation Results](assets/visuals_crack.png)
+![Crack Segmentation Results](Assets/visuals_crack.png)
 
 ### Taping Area Segmentation
 *Original | Ground Truth | Prediction*
 
-![Taping Area Segmentation Results](assets/visuals_drywall.png)
+![Taping Area Segmentation Results](Assets/visuals_drywall.png)
