@@ -80,3 +80,14 @@ See `report/report.pdf` for full methodology, results, visual examples, and fail
 |    └── visuals_*.png     # Visual examples
 |___ weights  #           model weights
 ```
+## Visual Results
+
+### Crack Segmentation
+*Original | Ground Truth | Prediction*
+
+![Crack Segmentation Results](assets/visuals_crack.png)
+
+### Taping Area Segmentation
+*Original | Ground Truth | Prediction*
+
+![Taping Area Segmentation Results](assets/visuals_drywall.png)
